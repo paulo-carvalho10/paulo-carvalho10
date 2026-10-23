@@ -223,7 +223,7 @@ Visão computacional aplicada ao futebol: detecção e rastreamento de jogadores
 <div align="center">
 
 <p>
-<img src="https://streak-stats.demolab.com?user=paulo-carvalho10&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="Estatísticas de sequência no GitHub" width="80%"/>
+<img src="https://streak-stats.demolab.com?user=paulo-carvalho10&theme=github-dark-blue&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&hide_current_streak=true&hide_longest_streak=true" alt="Total de contribuições no GitHub"/>
 </p>
 
 </div>
